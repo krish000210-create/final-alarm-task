@@ -1,0 +1,5 @@
+{
+  "name": "Student Prep Dashboard with Sound",
+  "description": "An all-in-one dashboard for students to manage tasks, track progress, use a Pomodoro timer, and set alarms, now with integrated ambient sound and alarm notifications.",
+  "requestFramePermissions": []
+}
